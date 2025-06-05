@@ -27,7 +27,7 @@ O sistema é montado em um circuito Arduino simulado no Wokwi, apresentando uma 
 * LEDs verde, amarelo e vermelho (indicadores visuais do nível de risco)
 * Buzzer piezo (alerta sonoro no risco crítico)
 
-  ![imagem da simulação do sistema](164051.png)
+  ![imagem da simulação do sistema](sistema_enchente/164051.png)
 
 ## Guia para simular o projeto no Wokwi
 
