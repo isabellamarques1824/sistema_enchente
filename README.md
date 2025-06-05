@@ -1,5 +1,10 @@
 # Projeto HydroSafe Tech - Monitoramento do Nível dos Rios
 
+## Alunas:
+
+Giovanna da Silva Santos RM566301  
+Isabella Jardim Marques RM566470 
+
 ## Descrição do Problema
 
 Em muitas regiões, enchentes causam alagamentos que afetam ruas, residências e áreas de risco, causando danos materiais e colocando vidas em perigo. A falta de alertas locais rápidos dificulta a tomada de decisões preventivas pela população e autoridades. Monitorar o nível da água dos rios em tempo real é essencial para avisar sobre riscos iminentes de enchentes e alagamentos.
@@ -48,4 +53,6 @@ O sistema é montado em um circuito Arduino simulado no Wokwi, apresentando uma 
 https://wokwi.com/projects/432949577457076225
 
 ## Link para o vídeo demonstrativo
+
+https://youtu.be/hQScxnMkMhY
 
